@@ -17,6 +17,9 @@
     <keywords>clipboard,copy,paste</keywords>
 
     <license>MIT</license>
+    
+    <repo>https://github.com/sunhaolin/CordovaClipboard.git</repo>
+    <issue>https://github.com/sunhaolin/CordovaClipboard/issues</issue>
 
     <js-module src="www/clipboard.js" name="Clipboard">
         <clobbers target="cordova.plugins.clipboard" />
